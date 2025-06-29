@@ -1,6 +1,6 @@
 <h2 style="color: green">Introduction</h2>
-In an era of digital transformation, **inclusivity and accessibility** have become paramount. One of the notable initiatives by the Government of India to promote accessibility for persons with disabilities (PwDs) is the **Sugamya Bharat App**. Launched under the **Accessible India Campaign (Sugamya Bharat Abhiyan)**, this mobile application is a landmark step in bridging the digital and physical divide for differently-abled citizens across the nation.
-<h2 style="color: skyblue">What is the Sugamya Bharat App?</h2>
+In an era of digital transformation, **inclusivity and accessibility** have become paramount. One of the notable initiatives by the Government of India to promote accessibility for persons with disabilities **(PwDs)** is the **Sugamya Bharat App**. Launched under the **Accessible India Campaign (Sugamya Bharat Abhiyan)**, this mobile application is a landmark step in bridging the digital and physical divide for differently-abled citizens across the nation.
+<h2 style="color: lightgreen">What is the Sugamya Bharat App?</h2>
 The **Sugamya Bharat App** is a **mobile application** launched by the **Ministry of Social Justice and Empowerment**, Government of India. It was introduced as part of the **Accessible India Campaign (AIC)** to empower persons with disabilities (PwDs) by enabling them to report accessibility-related issues in public infrastructure and services.
 
 - **Launch Date**: March 2021
@@ -32,17 +32,17 @@ To aid visually impaired users, the app supports **audio recording and voice com
 It is accessible in **10+ Indian languages**, ensuring inclusivity for users from different regions.
 ### 5. Integration with Swachhata App
 For seamless coordination, the app is integrated with the **Swachhata App** of the Ministry of Housing and Urban Affairs to report inaccessible sanitation facilities.
-<h2 style="color: pink">Benefits of Sugamya Bharat App</h2>
-- **Empowerment of PwDs** by enabling them to raise their voice against inaccessibility.
-- **Transparency and accountability** in ensuring infrastructural compliance.
-- **Real-time tracking** of complaints and redressal status.
-- Facilitates the creation of **data-driven policies** for accessibility planning.
-- Encourages **public-private cooperation** to improve infrastructure.
+<h2 style="color:Yellow">Benefits of Sugamya Bharat App</h2>
+- ***Empowerment of PwDs***  by enabling them to raise their voice against inaccessibility.
+- ***Transparency and accountability*** in ensuring infrastructural compliance.
+- ***Real-time tracking*** of complaints and redressal status.
+- ***Facilitates the creation of  data-driven policies*** for accessibility planning.
+- ***Encourages public-private cooperation*** to improve infrastructure.
 <h2 style="color: deeppink">How to Use the Sugamya Bharat App?</h2>
-1. **Download** the app from Google Play Store or Apple App Store.
-2. **Register** using your mobile number or email.
-3. Use the dashboard to **lodge complaints**, give **feedback**, or **track complaint status**.
-4. Submit the **location, photo, and description** of the issue.
+1. ***Download*** the app from Google Play Store or Apple App Store.
+2. ***Register*** using your mobile number or email.
+3. Use the dashboard to **lodge complaints**, give ***feedback***, or **track complaint status**.
+4. Submit the ***location, photo, and description*** of the issue.
 5. Monitor updates via in-app notifications.
 <h2 style="color: deepgreen">Accessible India Campaign (Sugamya Bharat Abhiyan)</h2>
 The app is part of the broader **Accessible India Campaign**, launched in 2015, with the vision to make at least **25% of all government buildings fully accessible**, ensure **accessible public transport**, and spread awareness about **universal accessibility**.
