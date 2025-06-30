@@ -1,31 +1,30 @@
 Climate Change refers to **long-term shifts in temperatures and weather patterns**. These shifts may be natural, like due to volcanic eruptions or solar cycles, but **since the 1800s, human activities have been the main driver**, especially due to the burning of fossil fuels like coal, oil, and gas.
-<h2 style="color: orange">Why is Climate Change Important for India?</h2>
+## Why is Climate Change Important for India?
 India, being a developing and agriculturally dependent country, is **extremely vulnerable to climate risks**.
 Examples:
 - 2023: **Himachal Pradesh** floods due to excessive monsoon rainfall.
 - 2022: **Delhi recorded 49 degree C** - one of its highest ever.
 - 2021: Cyclone **Yaas** in the east and Cyclone **Tauktae**  in the west - both linked to warming seas. etc. 
-<h2 style="color: orange">Causes of Climate Change</h2>
+## Causes of Climate Change
 - **Greenhouse gas emissions** (CO₂, CH₄, N₂O from industries, vehicles, agriculture).
 - **Deforestation** (reduces carbon absorption capacity).
 - Industrialization & urbanization.
 - Over-dependence on coal-based power.
-<h2 style="color: orange">Impact of Climate Change</h2>
+## Impact of Climate Change
 Climate change isn’t just about heat. Its **impact is multidimensional**:
 1. **Agriculture:** Irregular monsoons affect crops like rice and wheat.
 2. **Health:** Rise in vector-borne diseases like dengue and malaria.
 3. **Water crisis:** Glacial melt and irregular rainfall impact rivers and reservoirs.
 4. **Economy:** More money spent on disaster relief & infrastructure repair.
-<h2 style="color: orange">India’s Steps to Fight Climate Change</h2>
+### India’s Steps to Fight Climate Change
 India is actively engaging in **national and international efforts**:
 - **National Action Plan on Climate Change (NAPCC)** – with 8 core missions like Solar Mission, Water Mission etc.
 - **International Solar Alliance (ISA)** – launched by India and France.
 - **Panchamrit Pledge at COP26 (Glasgow)** – includes net-zero emissions by 2070.
-<h2 style="color: orange">International Efforts</h2>
+## International Efforts
 - **Paris Agreement (2015):** Limit global warming to 1.5°C.
 - **IPCC Reports:** Warn about rising sea levels, glacier loss, and climate tipping points.
-<h2 style="color: orange">What Can We Do?
-</h2>
+### What Can We Do?
 Even as students, small actions matter:
 - Use public transport or cycle.
 - Reduce single-use plastics.
