@@ -1,16 +1,16 @@
 Climate Change refers to **long-term shifts in temperatures and weather patterns**. These shifts may be natural, like due to volcanic eruptions or solar cycles, but **since the 1800s, human activities have been the main driver**, especially due to the burning of fossil fuels like coal, oil, and gas.
-## Why is Climate Change Important for India?
+### Why is Climate Change Important for India?
 India, being a developing and agriculturally dependent country, is **extremely vulnerable to climate risks**.
 Examples:
 - 2023: **Himachal Pradesh** floods due to excessive monsoon rainfall.
 - 2022: **Delhi recorded 49 degree C** - one of its highest ever.
 - 2021: Cyclone **Yaas** in the east and Cyclone **Tauktae**  in the west - both linked to warming seas. etc. 
-## Causes of Climate Change
+### Causes of Climate Change
 - **Greenhouse gas emissions** (CO₂, CH₄, N₂O from industries, vehicles, agriculture).
 - **Deforestation** (reduces carbon absorption capacity).
 - Industrialization & urbanization.
 - Over-dependence on coal-based power.
-## Impact of Climate Change
+### Impact of Climate Change
 Climate change isn’t just about heat. Its **impact is multidimensional**:
 1. **Agriculture:** Irregular monsoons affect crops like rice and wheat.
 2. **Health:** Rise in vector-borne diseases like dengue and malaria.
@@ -30,8 +30,7 @@ Even as students, small actions matter:
 - Reduce single-use plastics.
 - Spread awareness
 
-<h2 style="color: Blue">Practice Questions (MCQ Pattern)
-</h2>
+## Practice Questions (MCQ Pattern)
 Q1. What is the primary cause of climate change since the 1800s?
 A) Solar flares  
 B) Volcanic eruptions  
