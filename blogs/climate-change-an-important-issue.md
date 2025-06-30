@@ -21,7 +21,7 @@ India is actively engaging in **national and international efforts**:
 - **National Action Plan on Climate Change (NAPCC)** – with 8 core missions like Solar Mission, Water Mission etc.
 - **International Solar Alliance (ISA)** – launched by India and France.
 - **Panchamrit Pledge at COP26 (Glasgow)** – includes net-zero emissions by 2070.
-## International Efforts
+### International Efforts
 - **Paris Agreement (2015):** Limit global warming to 1.5°C.
 - **IPCC Reports:** Warn about rising sea levels, glacier loss, and climate tipping points.
 ### What Can We Do?
