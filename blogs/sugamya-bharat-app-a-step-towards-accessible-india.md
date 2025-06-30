@@ -1,7 +1,7 @@
 <h2 style="color: green">Introduction</h2>
-In an era of digital transformation, **inclusivity and accessibility** have become paramount. One of the notable initiatives by the Government of India to promote accessibility for persons with disabilities **(PwDs)** is the **Sugamya Bharat App**. Launched under the **Accessible India Campaign (Sugamya Bharat Abhiyan)**, this mobile application is a landmark step in bridging the digital and physical divide for differently-abled citizens across the nation.
+In an era of digital transformation, <strong>inclusivity and accessibility</strong>have become paramount. One of the notable initiatives by the Government of India to promote accessibility for persons with disabilities **(PwDs)** is the **Sugamya Bharat App**. Launched under the **Accessible India Campaign (Sugamya Bharat Abhiyan)**, this mobile application is a landmark step in bridging the digital and physical divide for differently-abled citizens across the nation.
 <h2 style="color: lightgreen">What is the Sugamya Bharat App?</h2>
-The **Sugamya Bharat App** is a **mobile application** launched by the **Ministry of Social Justice and Empowerment**, Government of India. It was introduced as part of the **Accessible India Campaign (AIC)** to empower persons with disabilities (PwDs) by enabling them to report accessibility-related issues in public infrastructure and services.
+The **Sugamya Bharat App** is a **mobile application** launched by the **Ministry of Social Justice and Empowerment**, Government of India. It was <strong>introduced</strong> as part of the **Accessible India Campaign (AIC)** to empower persons with disabilities (PwDs) by enabling them to report accessibility-related issues in public infrastructure and services.
 
 - **Launch Date**: March 2021
     
@@ -47,7 +47,7 @@ For seamless coordination, the app is integrated with the **Swachhata App** of t
 <h2 style="color: deepgreen">Accessible India Campaign (Sugamya Bharat Abhiyan)</h2>
 The app is part of the broader **Accessible India Campaign**, launched in 2015, with the vision to make at least **25% of all government buildings fully accessible**, ensure **accessible public transport**, and spread awareness about **universal accessibility**.
 <h2 style="color: blue">Conclusion</h2>
-The **Sugamya Bharat App** is more than just a digital tool—it is a symbol of inclusion, equality, and empowerment. By enabling citizens to participate in making India more accessible, it bridges the gap between policy and people. As India strides towards becoming a digitally empowered society, the Sugamya Bharat App stands out as a shining example of technology for social good.
+The **Sugamya Bharat App** is more than just a digital tool—it is a symbol of inclusion, equality, and empowerment. By enabling citizens to participate in making India more accessible, it bridges the gap between policy and people. As India strides <u>towards</u> <i>becoming</i> a digitally empowered society, the Sugamya Bharat App stands out as a shining example of technology for social good.
 
 
 ## Frequently Asked Questions (FAQs)
