@@ -37,6 +37,7 @@ World Milk Day 2025 wasn’t just about celebrating milk; it was a salute to Ind
     D) 25%  
     **Correct Answer**: B) 63.56%  
     **Explanation**: Milk production grew from 146.3 million tonnes to 239.3 million tonnes, a 63.56% increase.
+    
 ---
 3. **Which program transformed India into a milk-surplus nation?**  
     A) PM-KISAN  
