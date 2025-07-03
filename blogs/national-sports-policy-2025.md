@@ -1,4 +1,10 @@
+---
 
+---
+---
+By ***B. Haldar***
+
+---
 ## Introduction
 The **National Sports Policy (NSP) 2025**, also known as **Khelo Bharat Niti 2025**, was approved by the Union Cabinet on **July 1, 2025**. It replaces the 2001 policy and aims to make India a global sporting powerhouse capable of hosting the **2036 Olympic Games** and it also aims to make **India a top-five sporting nation by 2047**.
 ## Five Pillars of NSP 2025
@@ -85,7 +91,4 @@ C) $130 billion
 D) $150 billion  
 **Answer: C) $130 billion**  
 **Explain:** Citing Deloitte & Google reports, India’s sports market is expected to reach ~$130 bn by 2030.
-
----
-by B. Haldar
 
