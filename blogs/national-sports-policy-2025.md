@@ -21,11 +21,11 @@ The **National Sports Policy (NSP) 2025**, also known as **Khelo Bharat Niti 202
 - Embed sports into school curricula
 - Train physical education teachers to boost awareness and participation
 ## Strategic Framework for Implementation
--> Introduce robust governance and legal frameworks
--> Leverage **private funding, technology (AI/data analytics)**, and **innovative financing**
--> Establish a **National Monitoring Framework** with KPIs and timelines
--> Offer a model policy template for states and UTs
--> Promote **whole-of-government integration** across ministries
+-  Introduce robust governance and legal frameworks
+- Leverage **private funding, technology (AI/data analytics)**, and **innovative financing**
+-  Establish a **National Monitoring Framework** with KPIs and timelines
+- Offer a model policy template for states and UTs
+- Promote **whole-of-government integration** across ministries
 ## Importance of the National Sports Policy 2025
 - **Global ambitions**: India aims to emerge in the top 5 sporting nations and bid for the 2036 Olympics
 - **Economic potential**: Sports economy could grow from $52 bn to $130 bn by 2030
@@ -85,3 +85,8 @@ C) $130 billion
 D) $150 billion  
 **Answer: C) $130 billion**  
 **Explain:** Citing Deloitte & Google reports, India’s sports market is expected to reach ~$130 bn by 2030.
+
+---
+                                                                                                                                @Binoy Haldar
+
+--- 
