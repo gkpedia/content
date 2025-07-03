@@ -87,6 +87,5 @@ D) $150 billion
 **Explain:** Citing Deloitte & Google reports, India’s sports market is expected to reach ~$130 bn by 2030.
 
 ---
-                                                                                                                                @Binoy Haldar
+by B. Haldar
 
---- 
