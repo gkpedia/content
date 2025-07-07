@@ -23,3 +23,5 @@ The expressway is anticipated to boost the local economy by improving connectivi
 ## Recent Development
 
 The Maharashtra Cabinet has also approved increased allowances for tribal students in hostels, reflecting a commitment to social welfare. This aligns with the government’s broader agenda of supporting marginalised communities alongside major infrastructure projects.
+
+

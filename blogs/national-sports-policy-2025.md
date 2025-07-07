@@ -1,7 +1,6 @@
 ---
 
 ---
-
 By ***B. Haldar***
 
 ## Introduction
