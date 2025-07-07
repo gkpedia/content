@@ -15,7 +15,7 @@ That is not just about the rain. It is about how we prepare, respond and learn f
 
 ### MCQs for exam Preparation 
 
-**Q1. Which colour alert by IMD indicates heavy rainfall with risk to life and property?***  
+***Q1. Which colour alert by IMD indicates heavy rainfall with risk to life and property?***  
 A) Green 
 B) Yellow 
 C) Orange 
