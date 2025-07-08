@@ -60,6 +60,6 @@ D) Ministry of Science and Tech
 **Explain:** The IMD is a key body under the Ministry of Earth Sciences.
 
 ---
-Author's Bio
-Hi, I am **B. Haldar** , a Current Affairs Analyst and Competitive Exam Mentor with over 7 years of experience in guiding aspirants for UPSC, SSC, WBCS, and various State PSCs/PCS exams. I simplify news, policies, and complex topics into easy-to-understand, exam-relevant content that helps you stay ahead. I focus on what truly matters for your preparation.
+by,
+B. Haldar
 
