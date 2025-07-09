@@ -1,5 +1,5 @@
 
-By ***B. Haldar***
+By ***Dr. B. Haldar***
 
 ---
 ## Key Points
@@ -34,4 +34,4 @@ By ***B. Haldar***
 ## Administrative and Security Measures
 Authorities may deploy additional security personnel in urban and industrial centres. Some states could issue region-specific advisories on public transport and essential services.
 ## Conclusion
-<u>***The Bharat Bandh on 9 July highlights deep unease over labour law reforms, privatisation trends, and economic policy direction***</u>. Disruptions in public services authorities like particularly banking, transport, and power. It will test the response of both central and state administrations amid nationwide protest mobilisation.
+***<u>The Bharat Bandh on 9 July highlights deep unease over labour law reforms, privatisation trends, and economic policy direction</u>***. Disruptions in public services authorities like particularly banking, transport, and power. It will test the response of both central and state administrations amid nationwide protest mobilisation.
