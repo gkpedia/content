@@ -3,7 +3,7 @@ By ***Dr. B. Haldar***
 
 ---
 ## Key Points
-- Over **25 crore workers** from ten central trade unions and farmer groups plan strike **on 9 July**.
+- Over **25 crore workers** from ten central trade unions and farmer groups plan strike **on 9 July**
 - Aim is to protest four labour codes, privatisation push, contract jobs, rising unemployment.
 - Sectors like **banking, postal, coal mining, power, and state transport** likely to be disrupted.
 - Schools, colleges, private offices expected to remain operational.
