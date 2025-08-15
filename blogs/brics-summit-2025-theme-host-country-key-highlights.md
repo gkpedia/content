@@ -25,11 +25,6 @@ BRICS has grown, expanding its membership and influence in global affa
 Several pivotal moments have shaped BRICS, including the launch of the **New Development Bank**. This institution has been instrumental in financing infrastructure projects across member states.
 
 
-| Milestone                            | Year | Description                                                       |
-| ------------------------------------ | ---- | ----------------------------------------------------------------- |
-| Formation of BRICS                   | 2006 | Initial grouping of Brazil, Russia, **India**, and China          |
-| South Africa joins BRICS             | 2010 | **Expansion** to include South Africa                             |
-| **New Development Bank** established | 2014 | Creation of﻿ a financial institution for infrastructure financing |
 The growth of BRICS and its increasing role in global affairs highlight its evolution into a significantglobal force. As it continues to evolve, BRICS is set to play a more pivotal role in the global economic sphere.
 
 ## Brazil as the Host Country for the 17th BRICS Summit 2025 in Brazil
@@ -47,12 +42,6 @@ The host city for the 17th **BRICS Summit** will be a major urban c
 ### Logistical Arrangements and Security Measures
 Preparations for the summit include venue setup, accommodation for delegates, and transportation. **Security** will be a top priority, with a comprehensive plan to protect all attendees.
 
-
-| Aspect                 | Details                                          | Status       |
-| ---------------------- | ------------------------------------------------ | ------------ |
-| Venue Preparation      | Infrastructure development, seating arrangements | Ongoing      |
-| Accommodation          | Hotel bookings, delegate facilities              | Confirmed    |
-| **Sec﻿urity** Measures | Multi-layered **security**, surveillance         | Intensifying |
 
 ## Theme and Central Focus of the 2025 Summ﻿it
 Brazil, as the host for the 17th **BRICS Summit** in 2025, is set to highlight a theme that echoes global concerns. The summit's theme will be pivotal, mirroring current **global challenges** and the Brazilian Presidency's **vision** for BRICS.
@@ -152,12 +141,6 @@ The BRICS Summit 2025 is set to be a pivotal moment for economic co
 ### BRICS New Development Bank: Pro﻿gress and Projects
 **The New Development Bank**(NDB) stands as a key pillar of BRICS economic cooperation, prioritising sustainable development projects. Since its launch, the NDB has greenlit a plethora of projects across its member states. These initiatives span infrastructure, energy, and transportation sectors, driving development.
 
-
-| Project Category | Number of Projects | Total Investment |
-| ---------------- | ------------------ | ---------------- |
-| Infrastructure   | 20                 | $10 billion      |
-| Energy           | 15                 | $8 billion       |
-| Transportation   | 10                 | $5 billion       |
 
 ### Currency Cooperation and De-dollarisation Efforts
 BRICS nations are exploring **currency cooperation** to diminish reliance on the US dollar. This endeavour includes boosting trade in local currencies and developing novel payment systems.
