@@ -25,8 +25,6 @@ BRICS has grown, expanding its membership and influence in global affa
 Several pivotal moments have shaped BRICS, including the launch of the **New Development Bank**. This institution has been instrumental in financing infrastructure projects across member states.
 
 
-
-
 | Milestone                            | Year | Description                                                       |
 | ------------------------------------ | ---- | ----------------------------------------------------------------- |
 | Formation of BRICS                   | 2006 | Initial grouping of Brazil, Russia, **India**, and China          |
@@ -184,11 +182,6 @@ The 2025 BRICS Summit will focus on **regional conflicts** and BRICS'�
 
 ##### Implications for Multilateral Institutions
 The **geopolitical significance** of the 2025 BRICS Summit also extends to its implications for multilateral institutions. As BRICS grows in influence, it will likely impact the functioning and relevance of existing multilateral institutions. The summit will highlight the need for reform in these institutions to reflect the changing **global power dynamics**. A recent report noted, "
-
-
-> [!BRICS] BRICS
->The rise of BRICS challenges the existing global governance structures, necessitating a more inclusive and representative international order.
-
 
 ## Conclusion: The Future Trajectory of BRICS and Global Implications
 The 17th BRICS Summit in 2025 is set to redefine the future of the BRICS grouping, aiming for a more multipolar world. Brazil's hosting of the summit has the world on high alert, eager for breakthroughs in economic cooperation, sustainable development, and geopolitical shifts.
