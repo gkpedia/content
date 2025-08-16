@@ -1,8 +1,6 @@
 
 by ***A. Roy***
 
----
-
 The summit's **theme** will likely centre on **economic cooperation**, **sustainable development**, and geopolitical issues. As the **host country**, **Brazil** will have a crucial role in setting the agenda and determining the summit's outcomes.
 
 ## Key Takeaways
@@ -44,7 +42,7 @@ Preparations for the summit include venue setup, accommodation for dele
 
 
 ## Theme and Central Focus of the 2025 Summ﻿it
-Brazil, as the host for the 17th **BRICS Summit** in 2025, is set to highlight a theme that echoes global concerns. The summit's theme will be pivotal, mirroring current **global challenges** and the Brazilian Presidency's **vision** for BRICS.
+Brazil, as the host for the 17th **BRICS Summit**in 2025, is set to highlight a theme that echoes global concerns. The summit's theme will be pivotal, mirroring current **global challenges** and the Brazilian Presidency's **vision** for BRICS.
 
 ## Unveiling the Official Summit Theme
 The official theme for the 2025 BRICS Summit is expected to be revealed by the **Brazilian Presidency** before the event. This theme will define the summit's discussions and outcomes.
