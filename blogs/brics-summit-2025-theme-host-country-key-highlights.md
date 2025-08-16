@@ -1,4 +1,3 @@
-
 by ***A. Roy***
 
 The summit's **theme** will likely centre on **economic cooperation**, **sustainable development**, and geopolitical issues. As the **host country**, **Brazil** will have a crucial role in setting the agenda and determining the summit's outcomes.
@@ -10,16 +9,16 @@ The summit's **theme** will likely centre on **economic cooperation**, 
 - The **BRICS** grouping is a crucial player in global economic affairs.
 - The summit will address geopolitical issues.
 
-## The Evolution of BRICS: From Economic Bloc to Global Influence
-The transformation of **BRICS**from a regional economic entity to a global powerhouse showcases its escalating impact. Initially, BRICS emerged as an economic alliance, uniting significant emerging markets.
+The Evolution of BRICS: From Economic Bloc to Global Influence
+The transformation of **BRICS** from a regional economic entity to a global powerhouse showcases its escalating impact. Initially, BRICS emerged as an economic alliance, uniting significant emerging markets.
 
-## Origins and Founding Principles of BRICS
+# Origins and Founding Principles of BRICS
 BRICS was created to enhance economic collaboration among its member nations. Its core principles aim to promote mutual cooperation and development.
 
-## Expansion and Growing ﻿Significance in Global Affairs
+# Expansion and Growing ﻿Significance in Global Affairs
 BRICS has grown, expanding its membership and influence in global affairs. Its expanding role is evident in its capacity to influence global economic policies.
 
-### Key Milestones in﻿ BRICS Development
+# Key Milestones in﻿ BRICS Development
 Several pivotal moments have shaped BRICS, including the launch of the **New Development Bank**. This institution has been instrumental in financing infrastructure projects across member states.
 
 
